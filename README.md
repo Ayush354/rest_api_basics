@@ -1,1 +1,3 @@
-# Celery_with_Django
+# Function based view for serializer
+basics of rest api
+
